@@ -19,5 +19,10 @@
 9	commit					ok	
 10	volver a rama master(merges)		ok
 11	subir a remoto DatosPersonales		ok
-12	anotar					pueden hacerse por fast forward
+12	anotar					pueden hacerse por fastforward
 13	edicion bitacora
+14	fusion antecedentes			me he equivocado, ya que entendi mal lo que decia el punto 12 y pense que debia hacer las fusiones en el paso10,
+						sin embargo, este paso se haria aca, solo que clickeando en la opcion "even if fast-worward is possible" en sourcetree
+15	fusion de datosPersonales		igual que el 14, se haria igual, con la opcion "even if fastforward is possible "
+16	 edicion bitacora			ok
+
