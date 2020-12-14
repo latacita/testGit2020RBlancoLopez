@@ -1,8 +1,13 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):                                      
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+5	commit				ok	
+6	volver commit			ok
+7	crear antecedentes		ok
+8	crear archivo antecedente	ok
+9	commit				ok	
