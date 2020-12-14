@@ -25,4 +25,10 @@
 						sin embargo, este paso se haria aca, solo que clickeando en la opcion "even if fast-worward is possible" en sourcetree
 15	fusion de datosPersonales		igual que el 14, se haria igual, con la opcion "even if fastforward is possible "
 16	 edicion bitacora			ok
+17	etiqueta				ok
+18	subir rama master			ok, se ha borrado el texto que decia para aprobar borra esto en el conflicto y se ha subido de nuevo
+19	edicion bitacora
+
+
+
 
