@@ -1,8 +1,12 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Ricardo Armando Blanco Lopez                                   %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+1	clonar repositorio			ok
+2	crear rama datosPe...			ok
+3	editar planVacuna			ok
+4	editar bitcaroa				ok

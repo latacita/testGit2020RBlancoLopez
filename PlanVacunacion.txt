@@ -1,5 +1,7 @@
-DNI:
+DNI: y5646437c
 
-Vacuna Elegida (Pfizer/Moderna/Oxford):
+Vacuna Elegida (Pfizer/Moderna/Oxford): oxford
 
 Enviar antes del 20 de Enero 2021.
+
+
