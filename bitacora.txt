@@ -12,9 +12,12 @@
 2	crear rama datosPe...			ok
 3	editar planVacuna			ok
 4	editar bitcaroa				ok
-5	commit				ok	
-6	volver commit			ok
-7	crear antecedentes		ok
-8	crear archivo antecedente	ok
-9	commit				ok	
-
+5	commit					ok	
+6	volver commit				ok
+7	crear antecedentes			ok
+8	crear archivo antecedente		ok
+9	commit					ok	
+10	volver a rama master(merges)		ok
+11	subir a remoto DatosPersonales		ok
+12	anotar					pueden hacerse por fast forward
+13	edicion bitacora
